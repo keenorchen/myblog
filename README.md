@@ -8,3 +8,5 @@ superuser account：
 name:admin
 password:chenliuchun
 email:admin@admin.com
+
+test
